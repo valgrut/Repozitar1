@@ -10,7 +10,7 @@ Soubojovy system: Tahovy Efekt statistik Efekt potřeb
 
 Zbraně:
 
-Nepřatele:
+Nepřatele: Panic
 
 NPC: Putin na dinosaurovi Kim Jong Nazi Zombie Chesus
 
