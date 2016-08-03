@@ -1,3 +1,5 @@
+360 noskop yolo swaggage
+
 //Sehnat bilou tabulu //Brainstormingove napady jsou uvedeny na konci souboru
 
 Obecné info o hře: RPG 2D Unity engine / C# Tahový soubojový systém Hra za 1 postavu Možnost tvorby postavy Postava: Staty Equip Centralizace mapy Pohyb do 4/8 směrů (1/2) Crafting Potřeby (Sraní, chcaní, spaní)
