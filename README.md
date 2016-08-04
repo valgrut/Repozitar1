@@ -2,7 +2,8 @@
 
 //Sehnat bilou tabulu //Brainstormingove napady jsou uvedeny na konci souboru
 
-Obecné info o hře: RPG 2D Unity engine / C# Tahový soubojový systém Hra za 1 postavu Možnost tvorby postavy Postava: Staty Equip Centralizace mapy Pohyb do 4/8 směrů (1/2) Crafting Potřeby (Sraní, chcaní, spaní)
+Obecné info o hře: RPG 2D Unity engine / C# Tahový soubojový systém Hra za 1 postavu Možnost tvorby postavy Postava: Staty Equip Centralizace mapy Pohyb do 4/8 směrů (1/2) Crafting Potřeby, (Sraní, chcaní, spaní)
+(Valgrut)Obecne herni statistiky-pocet zabitych monster, nazbirane penize,...
 
 Tvorba postavy: Volba Rasy Vegan Volba Povolání
 
@@ -10,7 +11,11 @@ Soubojovy system: Tahovy Efekt statistik Efekt potřeb
 
 Zbraně:
 
+Výzbroj:
+(valgrut) Co takhle udelat nejakej komplexnejsi system brneni? Tim myslim, ze se bude skladat z jednotlivych kusu, ktery budou z ruznych materialu od nejhorsich po nejake lepsi, ktere si bud budeme moct vykraftit, nebo koupit u obchodniku nejakej zakladni, nebo třeba jako drop z nejakejch mobek. Co se tyce grafickyho provedeni, tak ze zakladu by to mohlo byt udelane jen barevne odlišení.
+
 Nepřatele:
+loot, staty, AI, 
 
 NPC: Putin na dinosaurovi Kim Jong Nazi Zombie Chesus
 
