@@ -9,7 +9,11 @@ Tvorba postavy: Volba Rasy Vegan Volba Povolání
 
 Soubojovy system: Tahovy Efekt statistik Efekt potřeb
 
-SKINY: Microtransactions
+/*********************************
+ *                               *
+ *    SKINY: Microtransactions   *
+ *                               *
+ *********************************/
 
 Zbraně:
 
